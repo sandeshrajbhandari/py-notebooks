@@ -8,4 +8,4 @@ Collection of python notebooks to share experiments with the open source communi
 - another problem is that training for 500 steps gave black images, 250 steps also gave blank images. atleast in 512 px finetuning. training upto 150steps gave good results. Training in 512px and generating images in 1024 px gave elongated faces for trained subject.
 - tried to run 1024px dreambooth
 - tried to run 1024px dreambooth on sdxl in kaggle. 50 step version worked. see `sdxl finetune dreambooth 1024 px 50 steps.ipynb`. using P100 GPU in kaggle notebooks does the trick.
-- 
+
